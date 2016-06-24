@@ -183,7 +183,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_signin_bad_password" = "شما رمزعبور را اشتباه وارد کردید";
 "lng_signin_wrong_code" = "شما کد را اشتباه وارد کرده‌اید";
 "lng_signin_try_password" = "آیا در دسترسی به ایمیل خود مشکلی دارید؟";
-"lng_signin_password_removed" = "Your cloud password was disabled.\nYou can set a new one in Settings.";
+"lng_signin_password_removed" = "رمزعبور ابری شما غیرفعال شده است.\nشما می توانید رمزعبور جدید را از تنظیمات دریافت کنید.";
 "lng_signin_no_email_forgot" = "Since you haven't provided a recovery\ne-mail when setting up your password, your remaining options are either to remember your password or to reset your account.";
 "lng_signin_cant_email_forgot" = "If you can't restore access to the e-mail, your remaining options are either to remember your password or to reset your account.";
 "lng_signin_reset_account" = "تنظیم مجدد حساب کاربری‌تان";
@@ -197,22 +197,22 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_signup_lastname" = "نام خانوادگی";
 
 "lng_dlg_filter" = "جستجو";
-"lng_dlg_new_group_name" = "Group name";
-"lng_dlg_new_channel_name" = "Channel name";
-"lng_no_contacts" = "You have no contacts";
-"lng_no_chats" = "Your chats will be here";
+"lng_dlg_new_group_name" = "نام گروه";
+"lng_dlg_new_channel_name" = "نام کانال";
+"lng_no_contacts" = "شما هیچ مخاطبی ندارید";
+"lng_no_chats" = "گفتگوهای شما اینجا خواهد بود";
 "lng_contacts_loading" = "در حال بارگزاری...";
-"lng_contacts_not_found" = "No contacts found";
-"lng_dlg_search_chat" = "Search in this chat";
-"lng_dlg_search_channel" = "Search in this channel";
+"lng_contacts_not_found" = "مخاطبی یافت نشد";
+"lng_dlg_search_chat" = "جستجو داخل این گفتگو";
+"lng_dlg_search_channel" = "جستجو داخل این کانال";
 "lng_dlg_search_for_messages" = "جستجوی پیام‌ها";
 
-"lng_settings_save" = "Save";
+"lng_settings_save" = "ذخیره";
 "lng_settings_upload" = "Set Profile Photo";
 "lng_settings_crop_profile" = "Select a square area for your profile photo";
 "lng_settings_uploading_photo" = "Uploading photo...";
 
-"lng_username_title" = "Username";
+"lng_username_title" = "نام کاربری";
 "lng_username_about" = "You can choose a username on Telegram.\nIf you do, other people will be able to find\nyou by this username and contact you\nwithout knowing شماره تلفن شما.\n\nYou can use a-z, 0-9 and underscores.\nMinimum length is 5 characters.";
 "lng_username_choose" = "Choose your username.";
 "lng_username_invalid" = "This username is invalid.";
@@ -295,16 +295,16 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_download_path_cleared" = "Cleared!";
 "lng_download_path_clear_failed" = "Clear failed :(";
 
-"lng_settings_section_cache" = "Local storage";
+"lng_settings_section_cache" = "حافظه‌ی داخلی";
 "lng_settings_no_data_cached" = "No cached data found!";
 "lng_settings_images_cached" = "{count:_not_used_|# image|# images}, {size}";
 "lng_settings_audios_cached" = "{count:_not_used_|# voice message|# voice messages}, {size}";
-"lng_local_storage_clear" = "Clear all";
-"lng_local_storage_clearing" = "Clearing...";
-"lng_local_storage_cleared" = "Cleared!";
-"lng_local_storage_clear_failed" = "Clear failed :(";
+"lng_local_storage_clear" = "پاک کردن همه";
+"lng_local_storage_clearing" = "در حال پاکسازی...";
+"lng_local_storage_cleared" = "پاک شد!";
+"lng_local_storage_clear_failed" = "خطا در پاکسازی :(";
 
-"lng_settings_section_advanced" = "Advanced";
+"lng_settings_section_advanced" = "پیشرفته";
 
 "lng_passcode_remove_button" = "حذف";
 
@@ -327,7 +327,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_passcode_wrong" = "Wrong passcode";
 "lng_passcode_is_same" = "Passcode was not changed";
 "lng_passcode_enter" = "Enter your local passcode";
-"lng_passcode_submit" = "Submit";
+"lng_passcode_submit" = "تایید";
 "lng_passcode_logout" = "Log out";
 "lng_passcode_need_unblock" = "You need to unlock me first.";
 
@@ -369,9 +369,9 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_connection_try_ipv6" = "Try connecting through IPv6";
 "lng_connection_host_ph" = "Hostname";
 "lng_connection_port_ph" = "Port";
-"lng_connection_user_ph" = "Username";
-"lng_connection_password_ph" = "Password";
-"lng_connection_save" = "Save";
+"lng_connection_user_ph" = "نام کاربری";
+"lng_connection_password_ph" = "رمزعبور";
+"lng_connection_save" = "ذخیره";
 "lng_settings_show_sessions" = "Show all sessions";
 "lng_settings_reset" = "Terminate all other sessions";
 "lng_settings_reset_sure" = "Are you sure you want to terminate\nall other sessions?";
