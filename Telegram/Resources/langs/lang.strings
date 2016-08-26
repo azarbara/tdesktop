@@ -1,4 +1,4 @@
-/*
+تنظیم تصویر پروفایل/*
 This file is part of Telegram Desktop,
 the official desktop version of Telegram messaging app, see https://telegram.org
 
@@ -208,9 +208,9 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 "lng_dlg_search_for_messages" = "جستجوی پیام‌ها";
 
 "lng_settings_save" = "ذخیره";
-"lng_settings_upload" = "Set Profile Photo";
-"lng_settings_crop_profile" = "Select a square area for your profile photo";
-"lng_settings_uploading_photo" = "Uploading photo...";
+"lng_settings_upload" = "تنظیم تصویر پروفایل";
+"lng_settings_crop_profile" = "یک محیط مربعی برای تصویر پروفایل خود انتخاب کنید";
+"lng_settings_uploading_photo" = "در حال بارگزاری تصویر...";
 
 "lng_username_title" = "نام کاربری";
 "lng_username_about" = "You can choose a username on Telegram.\nIf you do, other people will be able to find\nyou by this username and contact you\nwithout knowing شماره تلفن شما.\n\nYou can use a-z, 0-9 and underscores.\nMinimum length is 5 characters.";
